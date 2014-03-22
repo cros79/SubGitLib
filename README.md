@@ -1,0 +1,4 @@
+SubGitLib
+=========
+
+A subrepository experiment
